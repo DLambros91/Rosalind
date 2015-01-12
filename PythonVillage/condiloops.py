@@ -1,12 +1,12 @@
 ########################################################
-# Author: Dlambros 				                             #
-# Date: Sun, Dec 28, 2014			                         #
-# 						                                         #
+# Author: Dlambros 				       #
+# Date: Sun, Dec 28, 2014                              #
+# 		                                       #
 # Given: Two positive integers a and b (a < b < 10000) #
-#						                                           #
+#   	                                               #
 # Return: The sum of all odd integers from a through b,#
-#	        inclusively.	                               #
-#						                                           #
+#	  inclusively.	                               #
+# 	                                               #
 ########################################################
 
 sum = 0
